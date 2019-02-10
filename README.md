@@ -302,6 +302,7 @@ but rather to present the inner workings of them in a transparent and accessible
 - [Partitioning Around Medoids](mlfromscratch/unsupervised_learning/partitioning_around_medoids.py)
 - [Principal Component Analysis](mlfromscratch/unsupervised_learning/principal_component_analysis.py)
 - [Restricted Boltzmann Machine](mlfromscratch/unsupervised_learning/restricted_boltzmann_machine.py)
+- [Spectral Clustering](mlfromscratch/unsupervised_learning/spectral_clustering.py)
 
 ### Reinforcement Learning
 - [Deep Q-Network](mlfromscratch/reinforcement_learning/deep_q_network.py)

@@ -7,3 +7,4 @@ from .genetic_algorithm import GeneticAlgorithm
 from .k_means import KMeans
 from .partitioning_around_medoids import PAM
 from .restricted_boltzmann_machine import RBM
+from .spectral_clustering import SpectralClustering
